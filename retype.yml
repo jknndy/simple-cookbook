@@ -1,7 +1,7 @@
-url: mere.eirik.re/
+url: jknndy.github.io/simple-cookbook
 locale: no
 edit:
-  repo: github.com/engeir/simple-recipes-cookbook/edit
+  repo: github.com/jknndy/simple-cookbook/edit
   base: /src
   label: "Rediger denne siden"
 input: ./src
@@ -21,7 +21,7 @@ links:
     link: ./blog
     icon: book
   - text: Foreslå en oppskrift
-    link: https://github.com/engeir/simple-recipes-cookbook/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D
+    link: https://github.com/jknndy/simple-recipes-cookbook/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D
     icon: git-pull-request
 footer:
   copyright: "Copyleft {{ year }}. All rights reversed. Fork me on [GitHub](https://github.com/engeir/simple-recipes-cookbook)"
