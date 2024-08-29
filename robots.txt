@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mere.eirik.re/sitemap.xml.gz
+Sitemap: https://jknndy.github.io/simple-cookbook/sitemap.xml.gz
